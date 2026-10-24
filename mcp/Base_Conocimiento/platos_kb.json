@@ -1,0 +1,4534 @@
+[
+  {
+    "nombre": "Ceviche de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejol",
+      "Camote",
+      "Alverja",
+      "Yuca",
+      "Lenteja"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Escabeche de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejol",
+      "Camote",
+      "Alverja",
+      "Yuca",
+      "Lenteja"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Adobo de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lomo Saltado de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas doradas",
+      "Papas fritas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Coca Cola",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Trigo guisado",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Papa dorada",
+      "Puré espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Enrrollado c/ Salsa Blanca",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa amarilla",
+      "Papa dorada",
+      "Puré de papa",
+      "Puré espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Seco de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejol",
+      "Yuca",
+      "Papa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Trigo guisado",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Frejol",
+      "Pepian de choclo"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz con Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "c/ sarza criolla",
+      "c/crema huancaína"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Sillao",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejol",
+      "Papa",
+      "Camote",
+      "Pure de papa",
+      "Quinua guisada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Bbq",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa dorada",
+      "Camote",
+      "Puré de papa",
+      "Puré espinaca",
+      "Pepian de choclo"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo con Saltado de Verduras Chinas",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Camote",
+      "locro de zapallo"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo en Crema de Ají",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Yuca",
+      "Frejol",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Naranja",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Camote",
+      "Puré de papa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Brasa",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas",
+      "Puré de papa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Camote",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno Tipo Parrilla",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas",
+      "Papas doradas",
+      "ensalada rusa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aji de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Mostaza",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Lentejas",
+      "Camote",
+      "Papa dorada",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Picante de Pollo Montado (huevo Frito)",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Arrroz"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cau Cau de Pollo Montado (huevo Frito)",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Arroz"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Broaster",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas",
+      "Papas doradas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo con Piña",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Camote",
+      "Papa dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Presa c/ Salsa Chijaukay",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Carapulcra de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "C/Sarza criolla",
+      "C/Sarza criolla"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanessa de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Ensalada rusa",
+      "Puré de papa",
+      "Puré de espinaca",
+      "locro"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Menierre",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca",
+      "Papa dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo en Salsa de Ostion",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Camote",
+      "Frejol"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Mani",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Camote",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Asado de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Puré",
+      "Papa",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pachamanca de Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "camote y habas",
+      "choclo y camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Guiso de Pollo c/ Zuquini",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "papa",
+      "yuca",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Filete Parrillero",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Locro de zapallo",
+      "Lentejas",
+      "Trigo",
+      "Quinua",
+      "Garbanzos"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Filete de Pollo a las Finas Hierbas",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Locro de zapallo",
+      "Lentejas",
+      "Trigo",
+      "Quinua",
+      "Garbanzos"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Plancha",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Locro de zapallo",
+      "Lentejas",
+      "Trigo",
+      "Quinua",
+      "Garbanzos"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Saltado de Vainitas C/pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Norteña",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Olla",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Filete de Pollo a la Menier",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caigua Rellena",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Asado de Res",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Puré de papa",
+      "Puré de espinaca",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Res",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Puré de papa",
+      "Puré de espinaca",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Malaya en Punto Cuy",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Puré de papa",
+      "Puré de espinaca",
+      "Yuca",
+      "Yuca dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Seco de Res",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca",
+      "Frejoles"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Picante de Res",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Arroz"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck a la Chorrillana",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Camote",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bistek al Jugo",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Puré de papa",
+      "Puré de espinaca",
+      "Ensalada rusa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lomo Saltado",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas",
+      "Papas doradas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Albóndigas de Res",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa sancochada",
+      "Puré de papa",
+      "Puré de espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Hamburguesa de Carne Molida",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Puré de papa",
+      "Ensalada rusa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Olluquito con Carne",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Arroz"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Res con Saltado de Verduras",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa sancochada",
+      "Puré de papa",
+      "Puré de espinaca",
+      "papa dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Res al Vino",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Puré de papa",
+      "Puré de espinaca",
+      "Yuca",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Res con Saltado de Verduras Chinas",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pure de papa",
+      "Papa sancochada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Churrasco a la Parrilla",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Puré de papa",
+      "Puré de espinaca",
+      "Ensalada rusa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lomo Strogonoff",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Puré de papa",
+      "Puré de espinaca",
+      "Papa dorada",
+      "Papas fritas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lomo al Jugo",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas",
+      "Papas doradas",
+      "Yuca",
+      "Puré de espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck Apanado",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sudado de Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Camote",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Escabeche de Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Camote",
+      "Yuca",
+      "Garbanzos",
+      "Frejoles"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pescado a Lo Macho",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Camote",
+      "Yuca",
+      "Frejoles"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Jalea de Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca dorada",
+      "Sarza criolla",
+      "Arverja partida",
+      "Lentejitas",
+      "Pure espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pescado Frito",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pure de papa",
+      "Pure de espinaca",
+      "Lentejas",
+      "Frejoles",
+      "Garbanzos"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanessa de Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pure de papa",
+      "Pure de espinaca",
+      "Lentejas",
+      "Frejoles",
+      "Garbanzos"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pescado Apanado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "arverjita",
+      "ensalada rusa",
+      "Lentejas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cerdo al Horno",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Locro de zapallo",
+      "Puré espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cerdo a la Bbq",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Papa dorada",
+      "Puré espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pachamanca de Cerdo",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Camote y choclo",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Adobo de Cerdo",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Yuca",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cerdo al Romero",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Papa dorada",
+      "Puré espinaca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chuleta a la Parrilla",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Puré espinaca",
+      "Locro de zapallo"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chuleta a la Bbq",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Papas fritas",
+      "guiso de quinua"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chuleta en Salsa Oriental",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa dorada",
+      "Papa sancochada",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chuleta con Saltado de Verduras Chinas",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa dorada",
+      "Papa sancochada",
+      "Puré de papa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Carapulcra con Cerdo al Horno",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Arroz"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavo al Horno",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Frejoles",
+      "Ensalada rusa",
+      "Puré de papa",
+      "Locro de zapallo",
+      "papa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Pavita",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Lentejas",
+      "Frejoles",
+      "Papa cocida",
+      "Yuca",
+      "Puré de papa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Sillao",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa dorada",
+      "Locro de zapallo",
+      "Camote"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Seco de Pavita",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Adobo de Pavita",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca",
+      "Frejoles"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pachamanca de Pavita",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Camote y choclo",
+      "Yuca"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita con Saltado de Verduras Chinas",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papa",
+      "Yuca",
+      "Locro de zapallo"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Horno",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "ensalada rusa"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chuleta al Perejil",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "ensalada de papa",
+      "Papa sancochada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita Guisada",
+    "insumo": "Cerdo y Pavita",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca",
+      "Papa sancochada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Mondonguito a la Italiana Montado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Corazón Saltado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas",
+      "Puré de papa",
+      "Puré de espinaca",
+      "papa dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck de Corazón",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Locro de zapallo",
+      "Puré de espinaca",
+      "Lentejas",
+      "Frejoles",
+      "Arvejitas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Higado a la Chorrillana",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Yuca",
+      "Lentejas",
+      "Yuca dorada"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Higado Apanado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Puré de papa",
+      "Puré de espinaca",
+      "Lentejas",
+      "Frejoles",
+      "Arvejitas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chanfainita Montada",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Arroz"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caucau de Mondonguito c/ Huevo Frito",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "arorz",
+      "arroz"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Higado Salteado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Papas fritas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín Rojo",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pollo",
+      "Albóndigas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarin Verde",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Bisteck",
+      "Milanessa",
+      "Corazon anticuchado",
+      "Pollo a la parrilla",
+      "Filete de pollo a la parrilla",
+      "Hígado frito"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín Saltado Oriental",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "De pollo",
+      "De res",
+      "De corazón"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín a la Huancaina",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Bisteck",
+      "Milanessa",
+      "Corazon anticuchado",
+      "Pollo a la parrilla",
+      "Filete de pollo a la parrilla",
+      "Saltado de corazón"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín al Huevo Saltado",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "De pollo",
+      "De res"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Seca",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pollo al horno",
+      "Cerdo al horno"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz a la Jardinera",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pollo al horno",
+      "Cerdo al horno",
+      "Pavita al horno",
+      "Pollo a la parrilla",
+      "Pollo a la BBQ",
+      "Cerdo a la BBQ"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz a la Cocacola",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Polo al sillao",
+      "Pollo al horno",
+      "Pollo a la parrilla",
+      "Cerdo al horno",
+      "Pavita al horno",
+      "Cerdo a la BBQ"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz Árabe",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Polo al sillao",
+      "Pollo a la BBQ",
+      "Pollo a la parrilla",
+      "Chuleta bbq",
+      "Pavita al horno",
+      "Cerdo a la BBQ"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz Chaufa",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pollo al sillao con verduras chinas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aeropuerto",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Pollo al sillao con verduras chinas",
+      "Cerdo con verduras chinas"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz Tapado",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chaufa Amazónico",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Macarrones el Salsa Verde",
+    "insumo": "Arroz/Fideos",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [
+      "Bisteck",
+      "Milanessa",
+      "Corazon anticuchado",
+      "Pollo al horno",
+      "Filete de pollo a la parrilla",
+      "Hígado frito"
+    ],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caldo de Pollo",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Wantan Frito c/ Tamarindo",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Criolla",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pastel de Acelga",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa de Sémola",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tamal",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Shambar",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Soufle de Espinaca y Zanahoria",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa de Avena",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Papa en Salsa de Pimiento",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa de Trigo",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tequeños de Queso con Guacamole",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa de Quinua",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Papa Rellena",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chupe de Pescado",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Soufle de Acelga",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Menestrón",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Causa de Verduras con Pollo",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sancochado",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Rocoto Relleno",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Bebe",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chicharrón de Pota",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Morón",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pastel de Zapallo Italiano",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa de Pescado",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Papa en Crema de Rocoto",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Crema de Espárrago",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Huevo a la Rusa",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Patasca",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Causa de Atún",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa China",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Salpicón de Pollo",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caldo de Gallina",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tequeños Primavera",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cazuela de Res",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pastel de Choclo Salado",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aguadito Blanco",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Papa a la Huancaina",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Bebe Munición",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pimiento Relleno",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Crema de Zapallo",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Ceviche",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Paisana",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Huevo al Nido",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chupe de Hablas",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Soufle de Espárrago",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Dieta",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Solterito de Habas con Choclo",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aguadito de Pollo",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Ensalada Rusa",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa a la Minuta",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Huevo a la Huancaina",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Teologa",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Palta Rellena",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Fuchifu",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Boliyuca con Tartara",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Verde",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Yuca Frita con Tartara",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chupe de Verduras",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chicharrón de Pollo",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Juliana de Verduras",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tequeños de Hot Dog c/ Tártara",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Crema de Verduras",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Alitas Bbq",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Munición C/verduras",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cazuela de Pollo",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Huevo en Crema de Rocoto",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Aristud (fideo y Verduras)",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Brocheta de Pollo con Chimichurri",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Sustancia de Carne",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Salpicón de Verduras",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chilcano de Pescado",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Choclito en Crema Ocopa",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa Wantan",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Rollito Primavera",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sopa de Kion",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Huevo en Salsa Golf",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Codito C/verduras",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Anticuchitos",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sémola C/pollo",
+    "insumo": "Varios",
+    "rol": "Sopa",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tequeños de Queso C/tártara",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Brochetas Hawayanas",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chicharrón de Pollo c/ Tártara",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Ensalada Popeye",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Solterito de Queso",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chicharrón de Pescado",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Soufle de Verduras",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Huevo Relleno",
+    "insumo": "Varios",
+    "rol": "Entrada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Saltado de Pollo C/verduras Chinas y Papa Cocida",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Saltado de Res C/(zanahoria, Vainita, Champiñones) c/ Camote Cocido",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Croquetas de Atún (bastantes Verduras) c/ Yuca Sancochada",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Kion c/ Saltado de Brócoli, Frejolito Chinoc/yuca Cocida",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Plancha al Orégano c/ Ensalada Rusa",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caigua Rellena C/(carne Picada, Verduras) c/ Papa Cocida",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pescado a la Plancha c/ Guiso de Quinua y Verdura al Olivo",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cerdo al Horno C/ensalada Rusa (sin Mayonesa)",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chaufa de Quinua C/pollo y Verduras Chinas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Carne C/verduras (zanahoria, Arverja, Vainita, Choclo) C/yuca Cocida",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pescado a la Plancha C/frejoles Guisados y Ensalada Fresca",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cerdo al Horno c/ Camote Cocida y Ensalada Mixta",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno c/ Ensalada Wardorf (sin Mayonesa)",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck a la Plancha c/ Olluquito Guisado C/ensalada de Palta",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tortillas de Atún (abundantes Verduras) C/guiso de Trigo",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cerdo al Horno C/guiso de Zuquini y Papa",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pachamanca de Pollo (bajo en Condimentos) c/ Camote, Choclo y Ensalada Mixta",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Saltado de Carne Oriental C/chaufa de Quinua",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Escabeche de Pescado (bajo en Condimentos) c/ Camote y Ensalada Fresca",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Pavita c/ Saltado de Verudras y Papa",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Saltado con Durazno C/saltado de Verduras y Papa Cocida",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Asado de Res C/verduras al Olivo y Papa Cocida",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Ensalada de Arbanzos C/tortilla de Atún",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Guiso de Pavita c/ Pure de Papa y Ensalada Mixta",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Saltado de Choclo C/pollo y Pimiento c/ Lentejitas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Guiso de Carne C/yuca Cocida y Ensalada Mixta",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pescado al Sillao c/ Quinua Chaufa y Verduras Chinas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Sillao c/ Saltado de Brócoli y Papa",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Guiso de Zuquini C/pollo c/ Arroz Integral",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck a la Plancha C/lentejitas y Ensalada Fresca",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pescado al Ostión c/ Camote Cocido y Verduras Salteadas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Horno C/ensalada Waldorf (sin Mayonesa)",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Plancha Finas Hierbas c/ Guinua Guisada y Verdura Salteadas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita Estofada c/ Saltado de Brócoli y Papa",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno C/puré de Espinaca y Verduras al Olivo",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Sillao C/guiso de Trigo y Verduras Salteadas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Plancha Parrillero c/ Locro de Zapallo y Ensalada de Palta",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Plancha a la Mostaza C/pepian de Choclo y Verduras Salteadas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno en Salsa de Esparragos c/ Lentejitas y Ensalada Fresca",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Grill C/saltado de Brócoli y Camote Horneado",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno en Salsa de Esparragos c/ Papa y Verduras Cocidas",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Sillao C/holantao, Pimientos y Frijolito Chino C/papa",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo en Salsa de Zanahoria C/verduras al Olivo y Camotes",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno C/ensalada Rusa Sin Mayonesa",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Ensalada de Quinua C/garbanzos y Pollo Plancha a la Mostaza",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Plancha C/verduras Orientales C/guiso de Quinua",
+    "insumo": "Varios",
+    "rol": "Dieta",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Escabeche de Pollo Jugoso c/ Camote",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caldo de Gallina Presa + Papa Amarilla + Cancha",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Picante de Carne",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Filete de Pollo Parrillero c/ Ensalada Rusa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Patasca Presa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chuleta al Horno C/arroz Jardinero y Sarza Criolla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín Saltado Oriental de Pollo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lomo de Res al Jugo C/puré de Espinaca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aguadito de Pollo c/ Preza",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Macarrones en Salsa Verde c/ Pollo a la Plancha",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Shambar C/preza",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz C/pollo c/ Sarza Criolla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Horno c/ Locro de Zapallo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo c/ Piña c/ Papa Dorada",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caucau de Pollo Montado (c/huevo)",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sancochado de Res con Presa + Yuca + Choclo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanesa de Pollo C/arroz Jardinero y Sarza Criolla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck Jugoso C/ensalada Rusa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caldo de Pollo Presa + Papa Amarilla + Cancha",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Tipo Parrilla C/papa Dorada y Ensalada Fresca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Sillao C/locro",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aeropuerto C/pollo al Sillao y Verduras Chinas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estfoado de Pavita C/puré de Papa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Menestrón c/ Preza",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Res con Saltado de Verduras y Papa Dorada",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Ceviche de Pollo c/ Yuca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanesa de Pollo C/ensalada de Papa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Olluquito de Carne C/huevo Frito",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín Rojo c/ Pollo (bajo en Condimentos)",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Carne C/verduras y Pure de Papa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Menestrón con Presa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cerdo al Horno (sin Grasa) C/ensalada Rusa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Filete a la Parrilla C/arroz a la Jardinera y Sarza Criolla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanesa de Pollo C/locro de Zapallo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita en Salsa de Espinaca C/yuca y Arroz",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caldo de Pollo C/preza, Papa Amarilla y Cancha",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollada C/pure de Espinaca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Seco de Carne C/yuca y Sarza Criolla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Patazca C/preza",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Cocacola C/guiso de Quinua",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Menier c/ Yuca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Shambar de Carne (preza)",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Macarrones en Salsa Verde C/saltado de Carne",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chuleta a la Bbq c/ Ensalada Rusa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck Apanado c/ Papa y Ensalada",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aguadito de Pollo (preza)",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Filete a la Parrilla C/pure de Espinaca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz Árabe C/pollo al Horno",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sancochado de Res C/presa + Yuca + Choclo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Bisteck Apanado C/arroz y Pure de Espinaca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lomo Saltado de Pollo C/arroz y Papas Fritas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Patasca C/presa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavo al Horno C/ensalada Rusa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Asado de Pollo C/yuca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo al Horno C/guiso de Trigo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz Arabe C/pollo a la Bbq",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín Saltado de Carne Oriental",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caldo de Gallina C/preza",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Seco de Pollo C/papa Cocida",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Maní C/yuca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanesa de Pollo C/papa Dorada y Ensalada Fresca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Asado de Res C/pure",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Plancha C/pepian de Choclo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pavita al Sillao C/verduras Chinas y Papa Cocida",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Guiso de Carne C/yuca y Sarza Criolla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Hamburguesa (no Mucha Grasa)/pure Espinaca",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caldo de Pollo C/presa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Picante de Pollo Montado",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pachamanca de Pollo C/choclo y Habas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aeropuerto de Cerdo C/verduras Chinas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Menestron C/presa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Macarrones en Salsa Verde C/bisteck",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz a la Jardinera C/pollo a la Parrilla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Matasquita Montada",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Saltado de Pollo C/brócoli y Puré de Papa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Patazca C/presa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Carne con Arroz y Papa Amarilla",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo a la Naranja C/camote Glaseado",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tallarín Criollo de Carne (bajo en Condimentos)",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Escabeche de Pollo c/ Camote",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Filete de Pollo a la Menier C/papa Dorada",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Res Saltado C/verduras y Pure",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Dorado C/ensalada Waldorf",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Asado de Pollo C/puré",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lomo Saltado C/papas Fritas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanesa de Pollo C/verduras Salteadas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Escabeche de Pollo C/camote",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Saltado de Res C/vegetales y Papa Cocida",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Milanesa de Pollo C/quinua Guisada",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Res a la Olla C/yuca y Sarza",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pollo Tipo Braza C/papas Fritas y Ensalada",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Estofado de Res C/verduras y Papa",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Seco De Pollo Con Yuquitas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Higaditos De Pollo A La Jardinera Con Sarandaja",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Sudado De Pescado Con Lentejitas",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Chanfainita",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Locro De Zapallo Con Huevo Frito",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Carne De Res Con Rebosado De Trigo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Picante De Arvejas Con Tallarines Y Guiso De Pollo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Juane De Pollo",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Caigua Rellena Con Carne Molida Y Tarwi",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Ajiaco De Olluco Con Carne",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Picante Criollo De Pota",
+    "insumo": "Varios",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "Guías_alimentarias MINSA 2023"
+  },
+  {
+    "nombre": "Adobo De Anchoveta",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Arvejitas Con Anchoveta Rebozada",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Arroz Chaufa Con Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Bolitas De Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Cubierto De Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijoles Guisados Con Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Guiso De Trigo Con Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Hamburguesa De Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pachamanca De Pescado A La Olla",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pescado Al Ajo",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Rebozado De Pescado Con Arvejitas",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pescado Entomatado Con Trigo A La Jardinera",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pescado Saltado Con Frijoles",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Seco De Pescado",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Sudado De Pescado A La Norteña",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Tallarines A La Marinera",
+    "insumo": "Pescado",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Escabeche De Pota",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijoles Con Pota Encebollada",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijoles Guisados Con Pota",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Parrillada De Pota",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pota A La Naranja",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pota A Las Hierbas Aromáticas",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pota En Salsa De Pimiento",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Quinua Con Pota Saltada",
+    "insumo": "Pota",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Escabeche De Frijol",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Escabeche De Pallares",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Estofado De Frijoles",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijol A La Casilda",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijol Al Estilo Chifa",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijol Moreno Con Relleno",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijol Primaveral",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijoles Al Laurel",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijoles Con Acelga",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijoles Gratinados",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Garbanzos Guisados",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Guiso De Habas",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Picante De Frijol",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Puré De Arvejas Secas",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Puré De Pallares",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Seco De Frijoles",
+    "insumo": "Menestras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Cau Cau De Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Mixtura De Verduras Con Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pepian De Choclo Con Pollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pollo A Lo Criollo",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pollo En Salsa De Maní",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pollo Sabroso Con Verduras",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Albóndigas En Salsa Verde",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Arroz A La Jardinera Con Sangrecita",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Arroz Chaufa Sorpresa",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Chanfainita De Sangrecita",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Estofado De Sangrecita Con Pallares",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Hamburguesa De Sangrecita",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Olluco Guisado Con Sangrecita",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Picante De Sangrecita",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Quinua A La Princesa Con Sangrecita",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Sangrecita A La Italiana",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Sangrecita En Salsa De Maní",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Sangrecita Saltada",
+    "insumo": "Pollo",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Arvejitas Partidas Con Hígado Saltado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Cau Cau De Bofe",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Cebiche De Hígado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Chanfainita Delicia",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Frijol Con Hígado De Pollo Saltado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Guiso De Trigo Con Hígado Apanado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Hígado A La Chorrillana",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Hígado Al Perejil",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Hígado En Salsa De Tomate",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Olluco Con Mollejitas",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Pallares Con Saltado De Hígado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Tallarines Con Hígado Entomatado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Trigo En Baño De Leche Con Hígado",
+    "insumo": "Vísceras",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Guiso De Carne",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Matasca De Carne",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Olluquito Con Charqui",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Quinua A La Jardinera",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Saltado De Verduras Con Carne",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Ajiaco De Caigua",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Ajiaco De Habas Frescas",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Escabeche De Huevo",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Locro De Zapallo Con Huevo",
+    "insumo": "Res",
+    "rol": "Fondo",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "CENAN-0013 MINSA 2023"
+  },
+  {
+    "nombre": "Avena",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Quinua",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "7 Semillas",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Kiwicha",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Maca c/ Leche",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Soya",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chocolate",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Manzana",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Naranja",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Piña",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Maracuyá",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Durazno",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Membrillo",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Leche S/l",
+    "insumo": "Cereales",
+    "rol": "Cereal",
+    "turno": "Desayuno",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Aguadito con Pollo Presa",
+    "insumo": "Caldos Fuertes",
+    "rol": "Sopa",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Shambar Presa",
+    "insumo": "Caldos Fuertes",
+    "rol": "Sopa",
+    "turno": "Amanecida",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lechuga + Zanahoria + Tomate",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Brocoli + Zanahoria + Choclo Desgranado",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Espinaca + Pepino + Zapallo Italiano",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Coliflor + Choclo + Beterraga",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lechuga + Zapallo Italiano + Tomate",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Brocoli + Beterraga + Zanahoria",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Espinaca + Habas + Choclo",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Zapallo Italiano + Habas + Zanahoria",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Caigua + Pepino + Tomate",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lechuga+ Beterraga+ Zanahoria",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Zapallo Italiano+ Pimiento+ Choclo",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Espinaca+ Zanahoria+ Pepino",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tomate+ Coliflor+ Beterraga",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lechuga+ Brócoli+ Zanahoria",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Zanahoria Rayada+ Brócoli+ Choclo",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Zapallo Italiano + Choclo + Tomate",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pepino+ Beterraga+ Pimiento",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Tomate+caigua+zanahoria",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Espinaca+coliflor+vainitas",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Vainita+pepino+beterraga",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Zanahoria+brócoli+pepino",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pepino+beterraga+zanahoria",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lechuga+tomate+rabanito",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Espinaca+zanahoria+coliflor",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Choclo+tomate+zuquini",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Lechuga+pepino+beterraga",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Espinaca+tomate+zanahoria",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Zuquini+zanahoria+brócoli",
+    "insumo": "Ensalada",
+    "rol": "Ensalada",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Compota",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Mazamorra",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Flan",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Alfajor",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Panqueque C/fosh",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Mousse Chocolate",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Carlota de Fresa",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Morada",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Durazno en Almibar",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Keke Naranja",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Guarguero con Manjar",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Mousse de Mango",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Carlota de Piña",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pudín",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Budín",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Panqueque C/manajr",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Mousse de Limón",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Carlota de Naranja",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Arroz con Leche",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Keke de Vainilla",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Rollo Encanelado",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Mousse de Fruta Mixta",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Geliflan",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Calabaza",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Sambito",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Keke de Chocolate",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pionono",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cocktail de Frutas",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Quinua con Leche",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pudín Vainilla",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Keke de Avena",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Semola C/leche",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Budín de Sémola",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Keke de Coco",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Maicena C/leche",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Manzana Encanelada al Horno",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Keke de Plátano",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Mazamorra Cítrica",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Pera",
+    "insumo": "Postre 1",
+    "rol": "Postre",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Chicha Morada",
+    "insumo": "Refresco",
+    "rol": "Refresco",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Limónada",
+    "insumo": "Refresco",
+    "rol": "Refresco",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cocona",
+    "insumo": "Refresco",
+    "rol": "Refresco",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Carambola",
+    "insumo": "Refresco",
+    "rol": "Refresco",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  },
+  {
+    "nombre": "Cebada con Limón",
+    "insumo": "Refresco",
+    "rol": "Refresco",
+    "turno": "Almuerzo",
+    "guarniciones": [],
+    "fuente": "PLATOS PLANTA.xlsx"
+  }
+]
