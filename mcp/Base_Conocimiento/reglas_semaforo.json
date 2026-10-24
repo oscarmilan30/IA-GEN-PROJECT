@@ -1,0 +1,32 @@
+{
+  "Energía": {
+    "verde": "Si la preparación contiene al menos 50% de verduras",
+    "ambar": "Si la preparación contiene un tuberculo, guiso, o menestra",
+    "rojo": "Si la preparación contiene fritura, apanado, plato a base de arroz o plato a base de fideos"
+  },
+  "Carbohidratos": {
+    "verde": "Si la preparación contiene solo 1 carbohidrato en porción pequeña",
+    "ambar": "Si la preparación contiene 2 carbohidratos cocidos o guisados.",
+    "rojo": "Si la preparación está hecha base de arroz o plato a base de fideos"
+  },
+  "Proteína": {
+    "verde": "Si la preparacion contiene un filete, preza, trozo de alimento de origen animal de aproximadamente 100g",
+    "ambar": "Si la preparación contiene un alimentos de origen animal en picadilllo",
+    "rojo": "Si no contiene alimento de origen animal"
+  },
+  "Grasas": {
+    "verde": "Si la preparación no contiene frituras",
+    "ambar": "Si la prepración es un salteado",
+    "rojo": "Si la preparación contiene fritura profunda o apanados"
+  },
+  "Fibra": {
+    "verde": "Si la preparación contiene al menos 1 porción de verduras o menestras",
+    "ambar": "Si la preparación contiene al menos 3 verduras diferentes",
+    "rojo": "Si la preparación no contiene verduras"
+  },
+  "Sodio": {
+    "verde": "Si la preparación no contiene alimentos industrializados",
+    "ambar": "Si la preparación contiene 1 alimentos industrializado",
+    "rojo": "Si la preparación contiene sillao u otro insumo alto en sodio"
+  }
+}

@@ -1,0 +1,13 @@
+langchain-anthropic
+langgraph
+langchain-community
+langchain
+llama-index
+llama-index-embeddings-cohere
+sqlalchemy
+pyodbc
+python-dotenv
+openpyxl
+fastmcp==4.0.10
+streamlit
+cohere

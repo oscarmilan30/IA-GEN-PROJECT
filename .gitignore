@@ -1,0 +1,9 @@
+# Credenciales — NUNCA subir
+.env
+*.env
+Conexiones/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
